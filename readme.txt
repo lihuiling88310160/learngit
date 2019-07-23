@@ -6,4 +6,7 @@ git tracks changes of files02
 git tracks changes of files03
 git tracks changes of files04
 git tracks changes of files05
+git tracks changes of files06
+git tracks changes of files07
 
+hello world
